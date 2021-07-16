@@ -9,29 +9,29 @@ The parameters α>0 and β are often called the gain and bias parameters; someti
 		g(i,j)=α⋅f(i,j)+β 
     f(x): source image pixels and g(x) :output image pixels
 
+### original image 
 
 ![alt text](https://github.com/gouravbarkle/Object-classification-and-detection-model-using-YOLOv3/blob/main/Image%20metadata/original.png)
 
-### original image 
+### Image after tuning Brightness and Contrast
 
-  
 ![alt text](https://github.com/gouravbarkle/Object-classification-and-detection-model-using-YOLOv3/blob/main/Image%20metadata/original%20after%20enhancement.png)
 
-### Image after tuning Brightness and Contrast
 
 ## Histogram Equalization
 An image histogram gives a graphical representation of the distribution of pixel intensities in a digital image.
 The x-axis indicates the range of values the variable can take. This range can be divided into a series of intervals called bins. 
 The y-axis shows the count of how many values fall within that interval.
 
+### histogram representation of original image 
 
 ![alt text](https://github.com/gouravbarkle/Object-classification-and-detection-model-using-YOLOv3/blob/main/Image%20metadata/Histo%20original.png)
 
-### histogram representation of original image 
+### histogram representation after Equalization
 
 ![alt text](https://github.com/gouravbarkle/Object-classification-and-detection-model-using-YOLOv3/blob/main/Image%20metadata/histo%20after.png)
 
-### histogram representation after Equalization
+
 
 
 
