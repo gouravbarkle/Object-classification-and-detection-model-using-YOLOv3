@@ -37,14 +37,13 @@ The y-axis shows the count of how many values fall within that interval.
 
 
 # 2. Object classification and detection using YOLO
-The YOLO framework (You Only Look Once), deals with object detection in a different way. It takes the entire image in a single instance and predicts the bounding box coordinates and class probabilities for these boxes. The biggest advantage of using YOLO is its superb speed – it’s incredibly fast. YOLO also understands generalized object representation.
 
 * What is Yolo?
 	* YOLO (You Only Look Once) object detection algorithm, which is one of the most effective object detection algorithms.
 	* It takes the entire image in a single instance and predicts the bounding box coordinates and class probabilities for these boxes. 
 	* YOLO takes input and make predictions on it in single pass only, it uses CNN in the background for task completion.  
 
-*YOLO Architecture
+* YOLO Architecture
 	* 53 Conv layers called Darknet-53 stacked with 53 more layers producing 106 layers in total.
 	* No pooling layer used here instead of pooling it uses convolution layer with a filter 1X1 to down sample the input, as a result it enables & helps to 	improve ability to detect small object.
 	* YOLO V3, detects object at 3 different scales and at the layer 82,94 and 106.
