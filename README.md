@@ -25,5 +25,14 @@ The x-axis indicates the range of values the variable can take. This range can b
 The y-axis shows the count of how many values fall within that interval.
 
 
+![alt text](https://github.com/gouravbarkle/Object-classification-and-detection-model-using-YOLOv3/blob/main/Image%20metadata/Histo%20original.png)
+
+### histogram representation of original image 
+
+![alt text](https://github.com/gouravbarkle/Object-classification-and-detection-model-using-YOLOv3/blob/main/Image%20metadata/histo%20after.png)
+
+### histogram representation after Equalization
+
+
 
 # 2. ff
