@@ -48,3 +48,22 @@ The y-axis shows the count of how many values fall within that interval.
 	* No pooling layer used here instead of pooling it uses convolution layer with a filter 1X1 to down sample the input, as a result it enables & helps to 	improve ability to detect small object.
 	* YOLO V3, detects object at 3 different scales and at the layer 82,94 and 106.
 	* It uses three different stride values as 32,16 and 8 for detecting different types of features from the input.  
+
+## Final sample input output
+
+### Sample input 1
+
+![alt text](https://github.com/gouravbarkle/Object-classification-and-detection-model-using-YOLOv3/blob/main/Image%20metadata/sample%20ip%201.jpg)
+
+### Sample input 2
+
+![alt text](https://github.com/gouravbarkle/Object-classification-and-detection-model-using-YOLOv3/blob/main/Image%20metadata/sample%20ip%202.jpg)
+
+### Sample output 1
+
+![alt text](https://github.com/gouravbarkle/Object-classification-and-detection-model-using-YOLOv3/blob/main/Image%20metadata/sample%20op%201.jpg)
+
+### Sample output 2
+
+![alt text](https://github.com/gouravbarkle/Object-classification-and-detection-model-using-YOLOv3/blob/main/Image%20metadata/sample%20op%202.jpg)
+
