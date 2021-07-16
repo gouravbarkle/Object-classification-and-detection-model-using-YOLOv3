@@ -1,6 +1,5 @@
 # Object-classification-and-detection-model-using-YOLOv3
 
-# Objective 
 # 1. Data preprocessing 
 The data preprocessing phase mainly includes the methodology based on the intensity transformation technique specifically into the spatial domain to enhance the image quality before feeding into the model.
 
